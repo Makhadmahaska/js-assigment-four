@@ -1,0 +1,6 @@
+
+//Exercise//
+
+function guessNumber(){
+    
+}
